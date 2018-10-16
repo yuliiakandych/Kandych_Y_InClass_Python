@@ -11,7 +11,7 @@ Clone the project, navigate to the correct directory - <code>cd directore name</
   2. Scissors cuts Paper  
   3. Rock smashes Scissors  
 
-**_Choose your weapon wisely!_**
+**_Choose your weapon wisely!_** 
 
 The computer chooses first; just fillow the prompts.
 
