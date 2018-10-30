@@ -72,7 +72,7 @@ Computer Wins:{}""".format(player_wins, computer_wins))
     if player_wins == 0:
         print("Computer won the game")
         play_again = input("Would you like to play again? (Y/N) >")
-        if play_again == "Y":
+        if (play_again == "Y"):
             player_wins = 5
             computer_wins = 5
             continue
@@ -82,7 +82,7 @@ Computer Wins:{}""".format(player_wins, computer_wins))
     elif computer_wins == 0:
         print("You won the game")
         play_again = input("Would you like to play again? (Y/N) >")
-        if play_again == "Y":
+        if (play_again == "Y"):
             player_wins = 5
             computer_wins = 5
             continue
