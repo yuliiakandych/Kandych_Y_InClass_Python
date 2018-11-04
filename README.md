@@ -15,4 +15,12 @@ Clone the project, navigate to the correct directory - <code>cd directore name</
 
 The computer chooses first; just fillow the prompts.
 
+## Description
+
+1. Player and computer have 5 points each.  
+2. If player wins in the battle, computer loses a point.  
+3. If computer wins, player loses a point.  
+4. When one player’s lives reaches 0, the game should end.  
+5. User has a prompt that allows to quit or play again.
+
 Built with [Python 3](https://www.python.org)
